@@ -1,0 +1,17 @@
++Raul
++Zidane
++Carlos
++Ronaldo
++Beckham
++Owen
+-Owen
+-Carlos
+DEFRAGMENT
++CR7
+-Zidane
+-Beckham
+-Raul
++Bale
++Classilas
+WRITE FILE
+READ FILE
